@@ -45,7 +45,7 @@ function App() {
     },
     {
       id: "box2",
-      text: "Consult AI-Knowledge Generator",
+      text: "IGenius 1.0 AI-Marketing",
       desc: "Minutes to Mastery:Revolutionizing Business Documents creation with AI Speed and Precision consult ai-knowledge generator knowledge generation",
       content: "risk",
       color: "border-orange-400",
@@ -53,7 +53,7 @@ function App() {
     },
     {
       id: "box3",
-      text: "IGenius AI Marketing",
+      text: "IGenius 2.0 AI Marketing",
       desc: "Hyper-Customized, AI-Powered:Crafting Unique Customer Content at Scale igenius ai marketing",
       content: "email",
       color: "border-green-500",
