@@ -5,7 +5,7 @@ import { GiSailboat } from "react-icons/gi";
 import { BsFillWebcamFill } from "react-icons/bs";
 import React from "react";
 export const Drag = ({
-  bottomBoxContent,s
+  bottomBoxContent,
   boxes,
   setBoxes,
   setBottomBoxContent,
