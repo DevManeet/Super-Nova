@@ -61,7 +61,7 @@ function App() {
     },
     {
       id: "box4",
-      text: "Consult AI- Executive Insights",
+      text: "Consult AI- Knoowledge Genrator",
       desc: "Instant Intelligence, Enduring Edge:Empower Your Decisions with AI-Driven Insights consult ai- executive insights data insights dashboard summarize vendor comparison scope generation",
       content: "risk",
       color: "border-blue-400",
