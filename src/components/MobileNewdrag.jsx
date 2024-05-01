@@ -105,9 +105,9 @@ const {setMobSel,mobSel} = useGlobal()
                                 ? box.desc.substring(0, 78)
                                 : box.text === "Consult AI-Knowledge Management"
                                 ? box.desc.substring(0, 90)
-                                : box.text === "Consult AI- Executive Insights"
+                                : box.text === "IGenius 1.0 AI Marketing"
                                 ? box.desc.substring(0, 83)
-                                : box.text === "IGenius AI Marketing"
+                                : box.text === "IGenius 2.0 AI Marketing"
                                 ? box.desc.substring(0, 71)
                                 : box.text ===
                                   "Consult AI - Social Media Tracker"
@@ -155,9 +155,9 @@ const {setMobSel,mobSel} = useGlobal()
                             ? box.desc.substring(0, 78)
                             : box.text === "Consult AI-Knowledge Management"
                             ? box.desc.substring(0, 90)
-                            : box.text === "Consult AI- Executive Insights"
+                            : box.text === "IGenius 1.0 AI MArketing"
                             ? box.desc.substring(0, 83)
-                            : box.text === "IGenius AI Marketing"
+                            : box.text === "IGenius 2.0 AI Marketing"
                             ? box.desc.substring(0, 71)
                             : box.text === "Consult AI - Social Media Tracker"
                             ? box.desc.substring(0, 87)
