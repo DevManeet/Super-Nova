@@ -93,8 +93,8 @@ function App() {
     { text: " Tech Risk", id: "Consult AI - Social Media Tracker" },
     { text: "Knowledge Management", id: "Consult AI - Social Media Tracker" },
     { text: " Knowledge Generation", id: "Consult AI - Social Media Tracker" },
-    { text: "Summarize", id: "IGenius AI Marketing" },
-    { text: "Vendor Comparison", id: "IGenius AI Marketing" },
+    { text: "Summarize", id: "IGenius 2.0 AI Marketing" },
+    { text: "Vendor Comparison", id: "IGenius 2.0 AI Marketing" },
     { text: "RFP", id: "IGenius AI Marketing" },
     { text: "Scope Generation", id: "IGenius AI Marketing" },
   ]);
