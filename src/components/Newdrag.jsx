@@ -265,7 +265,7 @@ export const Newdrag = ({
                                     "Consult AI-Knowledge Management"
                                   ? box.desc.substring(0, 90)
                                   : box.text ===
-                                    "Consult AI- Executive Insights"
+                                    "Consult AI- Knowledge Generator"
                                   ? box.desc.substring(0, 83)
                                   : box.text === "IGenius 2.0 AI Marketing"
                                   ? box.desc.substring(0, 71)
@@ -318,7 +318,7 @@ export const Newdrag = ({
                               ? box.desc.substring(0, 78)
                               : box.text === "Consult AI-Knowledge Management"
                               ? box.desc.substring(0, 90)
-                              : box.text === "Consult AI- Executive Insights"
+                              : box.text === "Consult AI- Knowledge Generator"
                               ? box.desc.substring(0, 83)
                               : box.text === "IGenius 2.0 AI Marketing"
                               ? box.desc.substring(0, 71)
