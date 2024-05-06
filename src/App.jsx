@@ -61,7 +61,7 @@ function App() {
     },
     {
       id: "box4",
-      text: "Consult AI- Knoowledge Genrator",
+      text: "Consult AI- Knowledge Generator",
       desc: "Instant Intelligence, Enduring Edge:Empower Your Decisions with AI-Driven Insights consult ai- executive insights data insights dashboard summarize vendor comparison scope generation",
       content: "risk",
       color: "border-blue-400",
@@ -70,7 +70,7 @@ function App() {
 
     {
       id: "box5",
-      text: "Consult AI - Social Media Tracker",
+      text: "Consult AI - Knowledge Generator 2.0",
       desc: "Mastering the Social Sphere:AI-Driven Insights to Amplify Your Brand and Driven Growth consult ai - social media tracker",
       content: "risk",
       color: "border-violet-500",
