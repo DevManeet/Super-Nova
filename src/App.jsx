@@ -31,7 +31,7 @@ function App() {
       id: "box3",
       text: "Consult AI-Social Media Tracker",
       desc: "Mastering the social sphere:AI-Driven Insights to Amplify Your Brand and Drive Growth",
-      content: "rft",
+      content: "email",
     },
   ]);
   const [boxes1, setBoxes1] = React.useState([
@@ -55,7 +55,7 @@ function App() {
       id: "box3",
       text: "IGenius 2.0 AI Marketing",
       desc: "Hyper-Customized, AI-Powered:Crafting Unique Customer Content at Scale igenius ai marketing",
-      content: "rft",
+      content: "email",
       color: "border-green-500",
       bgColor: "bg-green-500",
     },
@@ -72,7 +72,7 @@ function App() {
       id: "box5",
       text: "Consult AI - Knowledge Generator 2.0",
       desc: "Mastering the Social Sphere:AI-Driven Insights to Amplify Your Brand and Driven Growth consult ai - social media tracker",
-      content: "risk",
+      content: "rft",
       color: "border-violet-500",
       bgColor: "bg-violet-500",
     },
