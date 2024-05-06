@@ -132,7 +132,7 @@ export default function SelectedBox({ bottomBoxContent, name }) {
             {selectedBox ? (
               <WebViewComponent
                 src={
-                  selectedBox === "chat" || selectedBox === "email"
+                  selectedBox === "chat" || selectedBox === "email" || selectedBox === "customer" || selectedBox === "rft"  
                     ? `https://chatapp-9694f.web.app/#/${selectedBox}`
                     : "https://consult-ai.co/chat/ahmed"
                 }

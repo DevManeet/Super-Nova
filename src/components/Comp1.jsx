@@ -17,7 +17,7 @@ export default function Comp1() {
           {mobSel && (
             <WebViewComponent
               src={
-                mobSel === "chat" || mobSel === "email"
+                mobSel === "chat" || mobSel === "email" || selectedBox === "customer" || selectedBox === "rft"  
                   ? `https://chatapp-9694f.web.app/#/${mobSel}`
                   : "https://consult-ai.co"
               }
