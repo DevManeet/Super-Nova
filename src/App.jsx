@@ -25,13 +25,13 @@ function App() {
       id: "box2",
       text: "Consult AI-Knowledge Generator",
       desc: "Minutes to Mastery:Revolutionizing Business Documents creation with AI Speed and Precision",
-      content: "email",
+      content: "customer",
     },
     {
       id: "box3",
       text: "Consult AI-Social Media Tracker",
       desc: "Mastering the social sphere:AI-Driven Insights to Amplify Your Brand and Drive Growth",
-      content: "risk",
+      content: "rft",
     },
   ]);
   const [boxes1, setBoxes1] = React.useState([
@@ -47,7 +47,7 @@ function App() {
       id: "box2",
       text: "IGenius 1.0 AI-Marketing",
       desc: "Minutes to Mastery:Revolutionizing Business Documents creation with AI Speed and Precision consult ai-knowledge generator knowledge generation",
-      content: "risk",
+      content: "customer",
       color: "border-orange-400",
       bgColor: "bg-orange-400",
     },
@@ -55,7 +55,7 @@ function App() {
       id: "box3",
       text: "IGenius 2.0 AI Marketing",
       desc: "Hyper-Customized, AI-Powered:Crafting Unique Customer Content at Scale igenius ai marketing",
-      content: "email",
+      content: "rft",
       color: "border-green-500",
       bgColor: "bg-green-500",
     },
